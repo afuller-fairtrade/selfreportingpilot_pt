@@ -1,0 +1,597 @@
+﻿product_code,major category,minor category,production type,multiplication_factor
+pp002,Banana,Banana bebê,Banana bebê: Litoral (< 800 m acima do nível do mar),1
+pp003,Banana,Banana bebê,Banana bebê: Montanha (≥800 m acima do nível do mar),1
+pp001,Banana,Banana (fresca),Banana (fresca),1
+pp005,Banana,Banana (outro),Outro [Especifique],1
+pp004,Banana,Plátano (fresco),Plátano (fresco),1
+pp007,açúcar de cana,açúcar de cana,Outro [Especifique],1
+pp321,açúcar de cana,açúcar de cana,açúcar,1
+pp006,açúcar de cana,açúcar de cana,Cana-de-açúcar,0.1
+pp311,Cereais,Milhete,Milhete,1
+pp243,Cereais,Cereais (outro),Outro [Especifique],1
+pp329,Cereais,Qañiwa,Qañiwa,1
+pp242,Cereais,Quinoa,Quinoa,1
+pp244,Arroz,Arroz,Basmati: Pusa,1
+pp245,Arroz,Arroz,Basmati: Tradicional,1
+pp246,Arroz,Arroz,Preto petit poussin & Branco petit poussin,1
+pp604,Arroz,Arroz,Grão longo brasileiro,1
+pp605,Arroz,Arroz,Grão longo aromático birmanês,1
+pp606,Arroz,Arroz,Grão longo aromático cambojano,1
+pp607,Arroz,Arroz,Giza,1
+pp247,Arroz,Arroz,Arroz glutinoso: preto ou violeta,1
+pp248,Arroz,Arroz,Arroz glutinoso: branco,1
+pp608,Arroz,Arroz,Hsin Thu Kha,1
+pp249,Arroz,Arroz,Jasmine Rice & Red Jasmine Rice,1
+pp609,Arroz,Arroz,Ma Naw Thu Kha,1
+pp610,Arroz,Arroz,Mandarin,1
+pp611,Arroz,Arroz,Não-Basmati e Não-Sarbati arroz,1
+pp612,Arroz,Arroz,Arroz não-glutinoso preto,1
+pp613,Arroz,Arroz,Arroz não-glutinoso vermelho,1
+pp250,Arroz,Arroz,Normal longgrain rice,1
+pp253,Arroz,Arroz,Outro [Especifique],1
+pp614,Arroz,Arroz,Paw San,1
+pp251,Arroz,Arroz,Sarbati,1
+pp616,Arroz,Arroz,Shwe Thwe Lay,1
+pp617,Arroz,Arroz,Arroz agulhinha tailandês,1
+pp252,Arroz,Arroz,Traditional varieties from Sri Lanka,1
+pp636,Cereais,Sorgo,Sorgo,1
+pp008,Cacau,Cacau,Grãos de cacau (bruto),1
+pp009,Cacau,Cacau,Outro [Especifique],1
+pp011,Café,Arábica,Arábica: Cereja seca,0.5
+pp010,Café,Arábica,Arábica: Cereja não processada,0.5
+pp012,Café,Arábica,Arábica: Pergaminho não lavado,0.8
+pp013,Café,Arábica,Arábica: Pergaminho lavado,0.8
+pp018,Café,Café (outro),Outro [Especifique],1
+pp015,Café,Robusta,Robusta: Cereja seca,0.5
+pp014,Café,Robusta,Robusta: Cereja não processada,0.5
+pp016,Café,Robusta,Robusta: Pergaminho não lavado,0.8
+pp017,Café,Robusta,Robusta: Pergaminho lavado,0.8
+pp348,Flores e Plantas,Plantas,Bolbos,1
+pp044,Flores e Plantas,Flores cortadas e folhagem cortada,Flores cortadas,1
+pp046,Flores e Plantas,Flores cortadas e folhagem cortada,Flores cortadas e folhagem cortada,1
+pp045,Flores e Plantas,Flores cortadas e folhagem cortada,Folhagem cortada,1
+pp047,Flores e Plantas,Plantas,Plantas ornamentais,1
+pp350,Flores e Plantas,Plantas,Material vegetal jovem,1
+pp048,Flores e Plantas,Flores e Plantas (outro),Outro [Especifique],1
+pp049,Fonio,Fonio,Fonio,1
+pp050,Fonio,Fonio,Outro [Especifique],1
+pp019,"Fruta processada (sumo, seco e polpa)",Açaí,Açaí (seco),1
+pp020,"Fruta processada (sumo, seco e polpa)",Maçãs,Maçãs (secas),1
+pp021,"Fruta processada (sumo, seco e polpa)",Damasco,Damasco (seco),1
+pp022,"Fruta processada (sumo, seco e polpa)",Banana,Banana (seca),1
+pp023,"Fruta processada (sumo, seco e polpa)",Mirtilo,Mirtilo (seco),1
+pp024,"Fruta processada (sumo, seco e polpa)",Cereja,Cereja (seca),1
+pp025,"Fruta processada (sumo, seco e polpa)",Coco,Coco (seco),1
+pp026,"Fruta processada (sumo, seco e polpa)",Tâmaras,Tâmaras (seco),1
+pp027,"Fruta processada (sumo, seco e polpa)",Limes,Limes (secas),1
+pp028,"Fruta processada (sumo, seco e polpa)",Manga,Manga (seca),1
+pp029,"Fruta processada (sumo, seco e polpa)",Melão (Cucumis melo),Melão (Cucumis melo) (seco),1
+pp041,"Fruta processada (sumo, seco e polpa)",Fruta processada (outro),Outros frutos secos [Especificar],1
+pp030,"Fruta processada (sumo, seco e polpa)",Mamão,Mamão (seco),1
+pp031,"Fruta processada (sumo, seco e polpa)",Peras,Peras (secas),1
+pp327,"Fruta processada (sumo, seco e polpa)",Caqui,Caqui (seco),1
+pp032,"Fruta processada (sumo, seco e polpa)",Physalis,Physalis (seco),1
+pp033,"Fruta processada (sumo, seco e polpa)",Ananás,Ananás (seco),1
+pp034,"Fruta processada (sumo, seco e polpa)",Ameixas,Ameixas (secas),1
+pp035,"Fruta processada (sumo, seco e polpa)",Romã,Romã (seca),1
+pp036,"Fruta processada (sumo, seco e polpa)",Uva passa,Uva passa (seca),1
+pp037,"Fruta processada (sumo, seco e polpa)",Framboesas,Framboesas (secas),1
+pp038,"Fruta processada (sumo, seco e polpa)",Sultana,Sultana (seca),1
+pp039,"Fruta processada (sumo, seco e polpa)",Melancia,Melancia (seca),1
+pp040,"Fruta processada (sumo, seco e polpa)",Damasco selvagem,Damasco selvagem (seco),1
+pp051,Fruta fresca,Açaí,Açaí (fresco),1
+pp052,Fruta fresca,Maçãs,Maçãs (frescas),1
+pp053,Fruta fresca,Damasco,Damasco (fresco),1
+pp054,Fruta fresca,Abacates,Abacates (frescos),1
+pp055,Fruta fresca,Baobab,Baobab (fresco),1
+pp056,Fruta fresca,Cássis,Cássis (fresco),1
+pp057,Fruta fresca,Mirtilo,Mirtilo (fresco),1
+pp058,Fruta fresca,Cereja,Cereja (fresca),1
+pp059,Fruta fresca,Tâmaras,Tâmaras (frescas),1
+pp060,Fruta fresca,Fruta de dragão,Fruta de dragão (fresca),1
+pp061,Fruta fresca,Toranja,Toranja (fresca),1
+pp634,Fruta fresca,Jaqueira,Jaqueira (fresca),1
+pp631,Fruta fresca,Lansium,Lansium (fresco),1
+pp062,Fruta fresca,Limões,Limões (frescos),1
+pp063,Fruta fresca,Limes,Limes (frescas),1
+pp064,Fruta fresca,Lychees,Lychees (fresco),1
+pp065,Fruta fresca,Mangas,Mangas (frescas),1
+pp632,Fruta fresca,Mangostim,Mangostim (fresco),1
+pp066,Fruta fresca,Marula,Marula (fresca),1
+pp067,Fruta fresca,Melão (Cumumis melo),Melão (Cumumis melo) (fresco),1
+pp068,Fruta fresca,Mini melancia,Mini melancia (fresca),1
+pp069,Fruta fresca,Nectarinas,Nectarinas (frescas),1
+pp070,Fruta fresca,Laranjas,Laranjas (frescas),1
+pp071,Fruta fresca,Laranjas: Umbigo,Laranjas: Umbigo (frescas),1
+pp072,Fruta fresca,Laranjas: Valencia,Laranjas: Valencia (frescas),1
+pp092,Fruta fresca,Fruta fresca (outro),Frutas (outro) ,1
+pp103,Ouro e metais preciosos associados,Ouro,Ouro: Convencional,1
+pp104,Ouro e metais preciosos associados,Ouro,Ouro: Ecológico,1
+pp109,Ouro e metais preciosos associados,Ouro e metais preciosos associados (outros),Outro [Especifique],1
+pp107,Ouro e metais preciosos associados,Platina,Platina: Convencional,1
+pp108,Ouro e metais preciosos associados,Platina,Platina: Ecológico,1
+pp105,Ouro e metais preciosos associados,Prata,Prata: Convencional,1
+pp106,Ouro e metais preciosos associados,Prata,Prata: Ecológico,1
+pp110,"Ervas, chás herbais e especiarias",Achochilla,Achochilla (Cyclanthera tenuisepala),1
+pp111,"Ervas, chás herbais e especiarias",Agave,"Agave (Agave tequilana, A. salmiana)",1
+pp112,"Ervas, chás herbais e especiarias",Ajowan,Ajowan (Trachyspermum ammi),1
+pp372,"Ervas, chás herbais e especiarias",Alfalfa,Alfalfa (Medicago sativa),1
+pp113,"Ervas, chás herbais e especiarias",Allspice,Allspice (Pimenta dioica),1
+pp114,"Ervas, chás herbais e especiarias",Almond flower,Almond flower (Prunus dulcis var. dulcis),1
+pp115,"Ervas, chás herbais e especiarias",Aloe,"Aloe (Aloe vera, A. barbadensis)",1
+pp373,"Ervas, chás herbais e especiarias",Altimisa,Altimisa (Ambrosia arborescens),1
+pp374,"Ervas, chás herbais e especiarias",Semente de Tampala,Semente de Tampala,1
+pp375,"Ervas, chás herbais e especiarias",Angélica,"Angélica (Angelica sylvestris, A. archangelica)",1
+pp376,"Ervas, chás herbais e especiarias",Angélica,"Raiz de angélica (Angelica sylvestris, A. archangelica)",1
+pp377,"Ervas, chás herbais e especiarias",Angélica,"Haste de angélica (Angelica sylvestris, A. archangelica)",1
+pp116,"Ervas, chás herbais e especiarias",Anis myrtle,Anis myrtle (Syzygium anisatum),1
+pp117,"Ervas, chás herbais e especiarias",Anise,Anise (Pimpinella anisum),1
+pp378,"Ervas, chás herbais e especiarias",Urucum,Urucum (Bixa orellana),1
+pp118,"Ervas, chás herbais e especiarias",Apricot seed,Apricot seed (Prunus armeniaca L.),1
+pp627,"Ervas, chás herbais e especiarias",Açúcar /néctar de arenga,Açúcar /néctar de arenga,1
+pp119,"Ervas, chás herbais e especiarias",Asafoetida,Asafoetida (Ferula assa-foetida),1
+pp315,"Ervas, chás herbais e especiarias",Açúcar de palmeira-de-palmira,Açúcar de palmeira-de-palmira,1
+pp379,"Ervas, chás herbais e especiarias",Açúcar de palmeira-de-palmira,Açúcar de palma da palmeira asiática (Borassus flabellifer): Shoots savia,1
+pp380,"Ervas, chás herbais e especiarias",Açúcar de palmeira-de-palmira,Açúcar de palma da Palmyra asiático (Borassus flabellifer): Spadix,1
+pp381,"Ervas, chás herbais e especiarias",Raiz Astragalus,Raiz Astragalus (especificação Astragalus),1
+pp382,"Ervas, chás herbais e especiarias",Berberis,Berberis (Berberis vulgaris),1
+pp120,"Ervas, chás herbais e especiarias",Basil,"Basil (Ocimum basilicum, O. gratissimum)",1
+pp383,"Ervas, chás herbais e especiarias",Louro,Louro (Laurus nobilis),1
+pp384,"Ervas, chás herbais e especiarias",Flor de monarda,Flor de monarda (Monarda didyma),1
+pp385,"Ervas, chás herbais e especiarias",Bael,Fruta de Bael (Aegle marmelos),1
+pp386,"Ervas, chás herbais e especiarias",Bael,Folha de Bael (Aegle marmelos),1
+pp387,"Ervas, chás herbais e especiarias",Bael,Raiz de Bael (Aegle marmelos),1
+pp388,"Ervas, chás herbais e especiarias",Folha de mirtilo,Folha de mirtilo (Vaccinium myrtillus),1
+pp389,"Ervas, chás herbais e especiarias",Folha de bétula,"Folha de bétula (Betula pendula, B. pubescens)",1
+pp390,"Ervas, chás herbais e especiarias",Erva do bispo,Erva do bispo (Aegopodium podagraria),1
+pp121,"Ervas, chás herbais e especiarias",Black caraway / black onions seeds,Black caraway / black onions seeds (Nigella sativa),1
+pp122,"Ervas, chás herbais e especiarias",Black mulberry leaf,Black mulberry leaf (Morus nigra),1
+pp123,"Ervas, chás herbais e especiarias",Black Pepper,Black Pepper (Piper nigrum),1
+pp124,"Ervas, chás herbais e especiarias",Blackberry leaf,Blackberry leaf (Rubus fruticosus),1
+pp125,"Ervas, chás herbais e especiarias",Blackcurrant leaf,Blackcurrant leaf (Ribes nigrum),1
+pp391,"Ervas, chás herbais e especiarias",Raiz de flor-de-lis,Raiz de flor-de-lis (Iris versicolor),1
+pp392,"Ervas, chás herbais e especiarias",Folha de boldo-do-chile,Folha de boldo-do-chile (Peumus boldus),1
+pp393,"Ervas, chás herbais e especiarias",Borragem,"Borragem (Borago officinalis, pygmaea B.)",1
+pp394,"Ervas, chás herbais e especiarias",Borragem,"Borragem (Borago officinalis, pygmaea B.)",1
+pp395,"Ervas, chás herbais e especiarias",Borragem,"Borragem (Borago officinalis, pygmaea B.): Desidratado",1
+pp126,"Ervas, chás herbais e especiarias",Brazil pepper,Brazil pepper (Schinus terebinthifolius),1
+pp396,"Ervas, chás herbais e especiarias",Buchu,Buchu (Agathosma betulina),1
+pp397,"Ervas, chás herbais e especiarias",Buchu,Buchu (Agathosma betulina),1
+pp398,"Ervas, chás herbais e especiarias",Trigo sarraceno,Trigo sarraceno (Fagopyrum esculentum),1
+pp399,"Ervas, chás herbais e especiarias",Raiz de bardana,Raiz de bardana (Arctium majus),1
+pp400,"Ervas, chás herbais e especiarias",Burnet,Burnet (espécie Sanguisorba),1
+pp401,"Ervas, chás herbais e especiarias",sarça ardente,sarça ardente (albus Dictamnus),1
+pp127,"Ervas, chás herbais e especiarias",Camomile,"Camomile (Matricaria recutita, Anthemis nobilis)",1
+pp128,"Ervas, chás herbais e especiarias",Caper,Caper (Capparis spinosa),1
+pp129,"Ervas, chás herbais e especiarias",Caraway,Caraway (Carum carvi),1
+pp130,"Ervas, chás herbais e especiarias",Cardamomo,Cardamomo (espécie Elettaria & Amonum),1
+pp131,"Ervas, chás herbais e especiarias",Cardamon fruit,Cardamon fruit (Elettaria and Amonum species),1
+pp641,"Ervas, chás herbais e especiarias",Alfarrobeira,Alfarrobeira,1
+pp402,"Ervas, chás herbais e especiarias",Musgo irlandês,Musgo irlandês (Chondrus crispus),1
+pp403,"Ervas, chás herbais e especiarias",Cássia,Cássia,1
+pp404,"Ervas, chás herbais e especiarias",Mamona,Mamona (Ricinus communis),1
+pp405,"Ervas, chás herbais e especiarias",Nêveda / Catnip,Nêveda / Catnip (Nepeta espécies),1
+pp406,"Ervas, chás herbais e especiarias",Flor de antenária,Flor de antenária (Antennaria dioica),1
+pp407,"Ervas, chás herbais e especiarias",Casca da catuaba,Casca da catuaba (Erythroxylon catuaba martius),1
+pp132,"Ervas, chás herbais e especiarias",Celery,Celery (Apium graveolens),1
+pp133,"Ervas, chás herbais e especiarias",Centelha,Centelha (Centella asiatica),1
+pp408,"Ervas, chás herbais e especiarias",Centáurea-menor,Centáurea-menor (Erythraea centaurium),1
+pp134,"Ervas, chás herbais e especiarias",Chervil,Chervil (Anthriscus cerefolium),1
+pp135,"Ervas, chás herbais e especiarias",Chia seeds,Chia seeds (Salvia hispanica),1
+pp136,"Ervas, chás herbais e especiarias",Chicória,Chicória (Cichorium intybus),1
+pp137,"Ervas, chás herbais e especiarias",Malagueta,Malagueta (espécie Capsicum),1
+pp409,"Ervas, chás herbais e especiarias",Chirata,Chirata (Swertia chirata),1
+pp138,"Ervas, chás herbais e especiarias",Chives,"Chives (Allium schoenoprasum, A. odoratum)",1
+pp410,"Ervas, chás herbais e especiarias",Flor crisântemo,Flor crisântemo (Chrysanthemum espécies),1
+pp411,"Ervas, chás herbais e especiarias",Cecília,Cecília (Myrrhis odorata),1
+pp412,"Ervas, chás herbais e especiarias",Casca de quina vermelha,Casca de quina vermelha (Cinchona succirubra),1
+pp139,"Ervas, chás herbais e especiarias",Cinnamon,"Cinnamon (Cinnamomum zeylanicum, C. cassia)",1
+pp140,"Ervas, chás herbais e especiarias",Citronella grass,"Citronella grass (Cymbopogon winterianus, C. nardus)",1
+pp141,"Ervas, chás herbais e especiarias",Clove,Clove (Syzygium aromaticum),1
+pp413,"Ervas, chás herbais e especiarias",Licopódio,Licopódio (Lycopodium clavatum),1
+pp414,"Ervas, chás herbais e especiarias",Tiririca,Tiririca (Cyperus rotundus),1
+pp415,"Ervas, chás herbais e especiarias",Açúcar de coco/néctar,Açúcar de coco/néctar (Cocos nucifera),1
+pp416,"Ervas, chás herbais e especiarias",Raiz de Codonopsis,Raiz de Codonopsis (Codonopsis pilosulae),1
+pp417,"Ervas, chás herbais e especiarias",Folha de café,"Folha de café (Coffea arabica, C. canephora)",1
+pp316,"Ervas, chás herbais e especiarias",Folha de café,Folhas de café,1
+pp418,"Ervas, chás herbais e especiarias",Noz de cola,Noz de cola (Cola acuminata),1
+pp419,"Ervas, chás herbais e especiarias",Azedinha,Azedinha (espécies Rumex),1
+pp420,"Ervas, chás herbais e especiarias",Verônica,Verônica (Veronica officinalis),1
+pp421,"Ervas, chás herbais e especiarias",Casca de condurango,Casca de condurango (Marsdenia cundurango),1
+pp142,"Ervas, chás herbais e especiarias",Coriander,Coriander (Coriandrum sativum),1
+pp143,"Ervas, chás herbais e especiarias",Cornflower,Cornflower (Centaurea cyanus),1
+pp422,"Ervas, chás herbais e especiarias",Tanaceto,"Tanaceto (Tanacetum vulgare, T. balsamita)",1
+pp423,"Ervas, chás herbais e especiarias",Raiz Couch-Grass,Raiz Couch-Grass (Agropyron repens),1
+pp424,"Ervas, chás herbais e especiarias",Folha de arando vermelho,Folha de arando vermelho (Vaccinium vitis-idaea),1
+pp144,"Ervas, chás herbais e especiarias",Cumin,Cumin (Cuminum cyminum),1
+pp145,"Ervas, chás herbais e especiarias",Folhas de caril/folhas de nim doce,Folhas de caril/folhas de nim doce (Murraya koenigii),1
+pp425,"Ervas, chás herbais e especiarias",Semente de cuscuta,Semente de cuscuta (Cuscuta epithymum),1
+pp426,"Ervas, chás herbais e especiarias",Flor da margarida,Flor da margarida (Bellis perennis),1
+pp427,"Ervas, chás herbais e especiarias",Rosa de Damasco,Rosa de Damasco (Rosa damascena),1
+pp428,"Ervas, chás herbais e especiarias",Damiana,Damiana (Turnera diffusa var. aphrodisiaca),1
+pp146,"Ervas, chás herbais e especiarias",Dandelion,Dandelion (Taraxatum species),1
+pp147,"Ervas, chás herbais e especiarias",Dill,Dill (Anethum graveolens),1
+pp429,"Ervas, chás herbais e especiarias",Galeopsis,Galeopsis (Galeopsis segetum),1
+pp430,"Ervas, chás herbais e especiarias",Sabugueiro,Sabugueiro (Sambucus ebulus),1
+pp431,"Ervas, chás herbais e especiarias",Pinheiro das montanhas,Pinheiro das montanhas (Pinus mugo),1
+pp432,"Ervas, chás herbais e especiarias",Giesta,Giesta (Genista tinctoria),1
+pp433,"Ervas, chás herbais e especiarias",Erva de equinácea,Erva de equinácea (espécies de Echinacea),1
+pp434,"Ervas, chás herbais e especiarias",Raiz de equinácea,Raiz de equinácea (espécies de Echinacea),1
+pp435,"Ervas, chás herbais e especiarias",Énula,Énula (Inula helenium),1
+pp506,"Ervas, chás herbais e especiarias",Epazote,Epazote (chá mexicano) (Chenopodium ambrosioides),1
+pp436,"Ervas, chás herbais e especiarias",Epazote,Epazote (chá mexicano) (Chenopodium ambrosioides),1
+pp437,"Ervas, chás herbais e especiarias",Eucalipto,Eucalipto (Eucalyptus spec.),1
+pp438,"Ervas, chás herbais e especiarias",Prímula,Prímula (Oenothera biennis),1
+pp439,"Ervas, chás herbais e especiarias",Eufrásia,Eufrásia (Euphrasia officinalis),1
+pp148,"Ervas, chás herbais e especiarias",Fennel,Fennel (Foeniculum vulgare),1
+pp149,"Ervas, chás herbais e especiarias",Fenugreek,Fenugreek (Trigonella foenum-graecum),1
+pp440,"Ervas, chás herbais e especiarias",Tanacetum/artemísia romana,Tanacetum/artemísia romana (Tanacetum parthenium),1
+pp441,"Ervas, chás herbais e especiarias",Cavalinha,Cavalinha (Equisetum arvense),1
+pp442,"Ervas, chás herbais e especiarias",Papoila-vermelha,Papoila-vermelha (Papaver rhoeas),1
+pp443,"Ervas, chás herbais e especiarias",Tiro de abeto,Tiro de abeto (Abies spec.),1
+pp444,"Ervas, chás herbais e especiarias",Casca de sumagre aromático,Casca de sumagre aromático (Rhus aromatica),1
+pp445,"Ervas, chás herbais e especiarias",Fumária,Fumária (Fumaria officinalis),1
+pp150,"Ervas, chás herbais e especiarias",Galangal,"Galangal (Kaempferia galanga, Languas galanga, L. officinarum, Alpinia galanga, A.officinarum)",1
+pp151,"Ervas, chás herbais e especiarias",Garlic chive,"Garlic chive (Allium tuberosum, A. ramosum)",1
+pp152,"Ervas, chás herbais e especiarias",Geranium,"Geranium (Pelargonium odoratissimum, P. graveolens)",1
+pp446,"Ervas, chás herbais e especiarias",Raiz Giloy,Raiz Giloy (Tinospora cordifolia),1
+pp447,"Ervas, chás herbais e especiarias",Haste Giloy,Haste Giloy (Tinospora Cordifolia),1
+pp153,"Ervas, chás herbais e especiarias",Ginger,Ginger (Zingiber officicinale),1
+pp448,"Ervas, chás herbais e especiarias",Ginkgo,Ginkgo (Ginkgo biloba),1
+pp449,"Ervas, chás herbais e especiarias",Raiz de Ginseng,Raiz de Ginseng (Panax ginseng),1
+pp450,"Ervas, chás herbais e especiarias",Arruda-caprária,Arruda-caprária (Galega officinalis),1
+pp451,"Ervas, chás herbais e especiarias",Goji,Goji (Lycium barbarum),1
+pp452,"Ervas, chás herbais e especiarias",Raiz de ouro,Raiz de ouro (Rhodiola rosea),1
+pp453,"Ervas, chás herbais e especiarias",Vara-dourada,Vara-dourada (Solidago virgaurea),1
+pp454,"Ervas, chás herbais e especiarias",Grãos do paraíso,Grãos do paraíso (Aframomum melegueta),1
+pp154,"Ervas, chás herbais e especiarias",Grape leaf,Grape leaf (Vitis vinifera),1
+pp455,"Ervas, chás herbais e especiarias",Folha de sempre-lustrosa,Folha de sempre-lustrosa (Bougainvillea spectabilis),1
+pp456,"Ervas, chás herbais e especiarias",Chá de montanha grega,Chá de montanha grega (espécies de Sideritis),1
+pp457,"Ervas, chás herbais e especiarias",Hera terrestre,Hera terrestre (Glechoma hederacea),1
+pp458,"Ervas, chás herbais e especiarias",Semente de guaraná,Semente de guaraná (Paullinia cupana),1
+pp155,"Ervas, chás herbais e especiarias",Guayusa / Wayusa,Guayusa / Wayusa (Ilex guayusa),1
+pp319,"Ervas, chás herbais e especiarias",Goma arábica,Goma arábica,1
+pp459,"Ervas, chás herbais e especiarias",Goma arábica,"Goma-arábica (Acacia senegal, A. seyal)",1
+pp460,"Ervas, chás herbais e especiarias",Folha de Gymnema,Folha de Gymnema (Gymnema silvestre),1
+pp461,"Ervas, chás herbais e especiarias",Herniária,Herniária (Herniaria hirsuta),1
+pp462,"Ervas, chás herbais e especiarias",Espinheiro,Espinheiro (Crataegus species),1
+pp463,"Ervas, chás herbais e especiarias",Folha de avelã,Folha de avelã (Corylus avellana),1
+pp464,"Ervas, chás herbais e especiarias",Violeta tricolor,Violeta tricolor (Viola tricolor),1
+pp465,"Ervas, chás herbais e especiarias",Urze,Urze (Calluna vulgaris),1
+pp466,"Ervas, chás herbais e especiarias",Flor de urze,Flor de urze (Calluna vulgaris),1
+pp467,"Ervas, chás herbais e especiarias",Maconha,Maconha (Cannabis sativa),1
+pp468,"Ervas, chás herbais e especiarias",Erva-benta,Erva-benta (Geum urbanum),1
+pp469,"Ervas, chás herbais e especiarias",Raiz de erva-benta,Raiz de erva-benta (Geum urbanum),1
+pp470,"Ervas, chás herbais e especiarias",Chá Herbal Não Especificado,Chá Herbal Não Especificado,1
+pp156,"Ervas, chás herbais e especiarias",Hibiscus,Hibiscus (Hibiscus sabdariffa),1
+pp471,"Ervas, chás herbais e especiarias",Malva-rosa,Malva-rosa (Althaea rosea),1
+pp472,"Ervas, chás herbais e especiarias",Cardo-santo,Cardo-santo (Cnicus benedictus),1
+pp157,"Ervas, chás herbais e especiarias",Honeybush,Honeybush (Cyclopia species),1
+pp473,"Ervas, chás herbais e especiarias",Marroio-branco,Marroio-branco (Marrubium vulgare),1
+pp474,"Ervas, chás herbais e especiarias",Casca de castanha-da-índia,Casca de castanha-da-índia (Aesculus hippocastanum),1
+pp475,"Ervas, chás herbais e especiarias",Flor de castanha-da-índia,Flor de castanha-da-índia (Aesculus hippocastanum),1
+pp476,"Ervas, chás herbais e especiarias",Folha de castanha-da-índia,Folha de castanha-da-índia (Aesculus hippocastanum),1
+pp477,"Ervas, chás herbais e especiarias",Raiz-forte,Raiz-forte (Armoracia rusticana),1
+pp478,"Ervas, chás herbais e especiarias",Hissopo,Hissopo (Hyssopus officinalis),1
+pp479,"Ervas, chás herbais e especiarias",Musgo-da-Islândia,Musgo-da-Islândia (Cetraria islandica),1
+pp480,"Ervas, chás herbais e especiarias",Folha da equinácea da Índia,Folha da equinácea da Índia (Andrographis paniculata),1
+pp481,"Ervas, chás herbais e especiarias",Raiz da equinácea da Índia,Raiz da equinácea da Índia (Andrographis paniculata),1
+pp640,"Ervas, chás herbais e especiarias",goma-oleoresina,goma-oleoresina,1
+pp482,"Ervas, chás herbais e especiarias",Ginseng indiano,Ginseng indiano (Withania somnifera),1
+pp483,"Ervas, chás herbais e especiarias",Indigo,Indigo (Indigofera tinctoria),1
+pp484,"Ervas, chás herbais e especiarias",Salsaparrilha-indiana,Salsaparrilha-indiana (Hemidesmus indicus),1
+pp485,"Ervas, chás herbais e especiarias",Galdéria De Hera,Galdéria De Hera (Coccinia indica),1
+pp486,"Ervas, chás herbais e especiarias",gengibre japonês,gengibre japonês (Zingiber mioga),1
+pp158,"Ervas, chás herbais e especiarias",Jasmine,Jasmine (Jasminum species),1
+pp159,"Ervas, chás herbais e especiarias",Juniper berry,Juniper berry (Juniperus communis),1
+pp487,"Ervas, chás herbais e especiarias",Nó-de-grama,Nó-de-grama (Polygonum aviculare),1
+pp160,"Ervas, chás herbais e especiarias",Kokam,Kokam (Garcinia indica),1
+pp488,"Ervas, chás herbais e especiarias",Casca de ipê-roxo,Casca de ipê-roxo (Tebebuia impetiginosa),1
+pp489,"Ervas, chás herbais e especiarias",Flor de esporinha,Flor de esporinha (Delphinium consolida),1
+pp161,"Ervas, chás herbais e especiarias",Lavender,Lavender (Lavendula species),1
+pp320,"Ervas, chás herbais e especiarias",Alho-porro,Alho-porro,1
+pp490,"Ervas, chás herbais e especiarias",Erva-cidreira,Erva-cidreira (Mellisa officinalis),1
+pp162,"Ervas, chás herbais e especiarias",Erva-cidreira,Lemon balm (Mellisa officinalis),1
+pp163,"Ervas, chás herbais e especiarias",Lemon myrtle,Lemon myrtle (Backhousia citriodora),1
+pp491,"Ervas, chás herbais e especiarias",Satureja biflora,Satureja biflora (Satureja biflora),1
+pp492,"Ervas, chás herbais e especiarias",Lúcia-lima,Lúcia-lima (Aloysia citrodora),1
+pp164,"Ervas, chás herbais e especiarias",Lemon verbena,Lemon verbena (Aloysia citrodora),1
+pp165,"Ervas, chás herbais e especiarias",Lemongrass,"Lemongrass (Cympobogon citratus, C. flexuosus)",1
+pp493,"Ervas, chás herbais e especiarias",Madeira de Guaiacum,Madeira de Guaiacum (Guajacum officinale),1
+pp494,"Ervas, chás herbais e especiarias",Tília,"Tília (Tilia cordata, T.  platyphyllos)",1
+pp495,"Ervas, chás herbais e especiarias",Tília,"Folha de tília (Tilia cordata, T.  platyphyllos)",1
+pp166,"Ervas, chás herbais e especiarias",Liquorice,Liquorice (Glycyrrhiza glabra),1
+pp167,"Ervas, chás herbais e especiarias",Long Pepper,"Long Pepper (Piper longum, P. retrofractum, P. officinarum)",1
+pp168,"Ervas, chás herbais e especiarias",Lovage herb,Lovage herb (Levisticum officinale),1
+pp496,"Ervas, chás herbais e especiarias",Amor e mentiras hemorrágicos,Amor e mentiras hemorrágicos (Amaranthus caudatus),1
+pp169,"Ervas, chás herbais e especiarias",Maca,Maca (Lepidium peruvianum),1
+pp170,"Ervas, chás herbais e especiarias",Mace,Mace (Myristica fragrans),1
+pp497,"Ervas, chás herbais e especiarias",Pervinca de Madagascar,Pervinca de Madagascar (Catharanthus roseus),1
+pp498,"Ervas, chás herbais e especiarias",Malabar tamarindo / Cambodge,Malabar tamarindo / Cambodge (Garcinia cambogia),1
+pp171,"Ervas, chás herbais e especiarias",Mallow leaf,Mallow leaf (Malva silvestris),1
+pp499,"Ervas, chás herbais e especiarias",Resina de feixo-florido,Resina de feixo-florido (Fraxinus ornus),1
+pp172,"Ervas, chás herbais e especiarias",Marigold flowers,Marigold flowers (Calendula officinalis),1
+pp173,"Ervas, chás herbais e especiarias",Marjoram,Marjoram (Origanum majorana),1
+pp174,"Ervas, chás herbais e especiarias",Marjoram,Marjoram fruit (Origanum majorana),1
+pp500,"Ervas, chás herbais e especiarias",Marjoram,Folha de Altéia (Althaea officinalis),1
+pp501,"Ervas, chás herbais e especiarias",Marjoram,Raiz de altéia (Althaea officinalis),1
+pp503,"Ervas, chás herbais e especiarias",Matico folhas,Matico folhas (Aristeguietia glutinosa),1
+pp504,"Ervas, chás herbais e especiarias",Flor de filipêndula,Flor de filipêndula (Filipendula ulmaria),1
+pp505,"Ervas, chás herbais e especiarias",Erva de filipêndula,Erva de filipêndula (Filipendula ulmaria),1
+pp507,"Ervas, chás herbais e especiarias",Valeriana mexicana,Valeriana mexicana (Valeriana edulis),1
+pp508,"Ervas, chás herbais e especiarias",Cardo-de-leite,Cardo-de-leite (espécies Silybum),1
+pp175,"Ervas, chás herbais e especiarias",Mint,Mint (Mentha species),1
+pp509,"Ervas, chás herbais e especiarias",Visco branco,Visco branco (Viscum album),1
+pp510,"Ervas, chás herbais e especiarias",Cabeça-de-dragão,Cabeça-de-dragão (Dracocephalum moldavica),1
+pp511,"Ervas, chás herbais e especiarias",Moradilla,Moradilla (Alternanthera cericea),1
+pp176,"Ervas, chás herbais e especiarias",Morello cherry stem,Morello cherry stem (Prunus cerasus),1
+pp512,"Ervas, chás herbais e especiarias",Moringa,Folha de Moringa (Moringa oleifera),1
+pp513,"Ervas, chás herbais e especiarias",Moringa,Grão de Moringa (Moringa oleifera),1
+pp514,"Ervas, chás herbais e especiarias",Bagas de pimenta da montanha,Bagas de pimenta da montanha (espécie Tasmannia),1
+pp515,"Ervas, chás herbais e especiarias",Muelan,Muelan (tamnifolia Muelenbeckia),1
+pp177,"Ervas, chás herbais e especiarias",Mullein leaf,Mullein leaf (Verbascum spec.),1
+pp516,"Ervas, chás herbais e especiarias",Muna,Muna (mollis Minthostachys),1
+pp517,"Ervas, chás herbais e especiarias",Grão de mostarda,Grão de mostarda (Brassica e Sinapis espécies),1
+pp518,"Ervas, chás herbais e especiarias",Capuchinha,Capuchinha (Tropaeolum majus),1
+pp519,"Ervas, chás herbais e especiarias",Neem,Neem (Azadirachta indica),1
+pp178,"Ervas, chás herbais e especiarias",Nettle,Nettle (Urtica species),1
+pp520,"Ervas, chás herbais e especiarias",Espruce-da-Noruega,Espruce-da-Noruega (Picea abies),1
+pp179,"Ervas, chás herbais e especiarias",Nutmeg,Nutmeg (Myristica fragrans),1
+pp521,"Ervas, chás herbais e especiarias","Aveia, verde","Aveia, verde (Avena sativa)",1
+pp522,"Ervas, chás herbais e especiarias",folha de azeitona,folha de azeitona (Olea europaea),1
+pp180,"Ervas, chás herbais e especiarias",Orange leaves,Orange leaves (Citrus aurantium),1
+pp523,"Ervas, chás herbais e especiarias",Orange leaves,Orange leaves (Citrus aurantium),1
+pp181,"Ervas, chás herbais e especiarias",Oregano,"Oregano (Origanum vulgare, O. majoricum)",1
+pp213,"Ervas, chás herbais e especiarias","Ervas, chás herbais e especiarias (outro)",Outro [Especifique],1
+pp524,"Ervas, chás herbais e especiarias",Palmarosa / Rosha,Palmarosa / Rosha (Cymbopogon martinii),1
+pp525,"Ervas, chás herbais e especiarias",Mamão,Mamão (Carica papaya),1
+pp182,"Ervas, chás herbais e especiarias",Parsley,Parsley (Petroselinum crispum),1
+pp318,"Ervas, chás herbais e especiarias",Patchouli,Patchouli,1
+pp526,"Ervas, chás herbais e especiarias",Patchouli,Folha de patchouli (Pogostemon cablin),1
+pp183,"Ervas, chás herbais e especiarias","Pennywort, Gotu Kola","Pennywort, Gotu Kola (Centrella asiatica)",1
+pp527,"Ervas, chás herbais e especiarias",Flor da peônia,Flor da peônia (Paeonia officinalis),1
+pp528,"Ervas, chás herbais e especiarias",Erva de pimpinela,Erva de pimpinela (Pimpinella major),1
+pp529,"Ervas, chás herbais e especiarias",Raiz de de pimpinela,Raiz de de pimpinela (Pimpinella major),1
+pp530,"Ervas, chás herbais e especiarias",Tanchagem,Tanchagem,1
+pp531,"Ervas, chás herbais e especiarias",Polpala,Polpala (Aerva lanata),1
+pp184,"Ervas, chás herbais e especiarias",Romã,Romã (Punica granatum),1
+pp532,"Ervas, chás herbais e especiarias",sementes de papoila,sementes de papoila (Papaver somniferum),1
+pp533,"Ervas, chás herbais e especiarias",Poria fungo,Poria fungo (Poria cocos),1
+pp534,"Ervas, chás herbais e especiarias",Flor de prímula,Flor de prímula (Primula veris),1
+pp535,"Ervas, chás herbais e especiarias",Raiz de prímula,Raiz de prímula (Primula veris),1
+pp536,"Ervas, chás herbais e especiarias",Quassia,Quassia (Quassia amara),1
+pp537,"Ervas, chás herbais e especiarias",Rainha Anna Lace,Rainha Anna Lace (Daucus carota),1
+pp185,"Ervas, chás herbais e especiarias",Folhas de framboesa,Folhas de framboesa (Rubus idaeus),1
+pp186,"Ervas, chás herbais e especiarias",Henna,Henna (Lawsonia inermis),1
+pp538,"Ervas, chás herbais e especiarias",Rehmannia root,Rehmannia root (Rehmannia glutinosa),1
+pp187,"Ervas, chás herbais e especiarias",Rooibos,Rooibos (Aspalathus linearis),1
+pp188,"Ervas, chás herbais e especiarias",Rosa Mosqueta,Rosa Mosqueta (espécie Rosa),1
+pp189,"Ervas, chás herbais e especiarias",Roselle,Roselle (Hibiscus sabdariffa),1
+pp190,"Ervas, chás herbais e especiarias",Alecrim,Alecrim (Rosmarinus officinalis),1
+pp539,"Ervas, chás herbais e especiarias",Arruda,Arruda (Ruta graveolens),1
+pp540,"Ervas, chás herbais e especiarias",Flor-de-lótus,Flor-de-lótus (Nelumbo nucifera),1
+pp191,"Ervas, chás herbais e especiarias",Flor de cártamo,Flor de cártamo (Carthamus tinctorius),1
+pp192,"Ervas, chás herbais e especiarias",Açafrão,Açafrão (Crocus sativus),1
+pp193,"Ervas, chás herbais e especiarias",Sage,"Sage (Salvia officinalis, S.sclarea)",1
+pp541,"Ervas, chás herbais e especiarias",Flor de sempre-viva,Flor de sempre-viva (Helichrysum arenarium),1
+pp542,"Ervas, chás herbais e especiarias",Raiz de salsaparilha,Raiz de salsaparilha (species Smilax),1
+pp543,"Ervas, chás herbais e especiarias",Sassafras folhas,Sassafras folhas (albidum sassafrás),1
+pp544,"Ervas, chás herbais e especiarias",Satavar,Satavar (Asparagus racemosus),1
+pp194,"Ervas, chás herbais e especiarias",Savory,"Savory (Satureia hortensis, montana S.)",1
+pp545,"Ervas, chás herbais e especiarias",Fruto de schisandra chinensis,Fruto de schisandra chinensis (Schisandra chinensis),1
+pp546,"Ervas, chás herbais e especiarias",Polígala,Polígala (Polygala senega),1
+pp195,"Ervas, chás herbais e especiarias",Senna Italica / Henna Neutral obovata Cassia),Senna Italica / Henna Neutral obovata Cassia),1
+pp196,"Ervas, chás herbais e especiarias",Sésamo,Sésamo (Sesamum indicum),1
+pp547,"Ervas, chás herbais e especiarias",Shankhapushpi,Shankhapushpi (Convolvulus pluricaulis),1
+pp548,"Ervas, chás herbais e especiarias",Bolsa-de-pastor,Bolsa-de-pastor (Capsella bursa pastoris),1
+pp549,"Ervas, chás herbais e especiarias",Raiz de ginseng siberiano,Raiz de ginseng siberiano (Eleutherococcus senticosus),1
+pp550,"Ervas, chás herbais e especiarias",Sichuan pimenta,"Sichuan pimenta (Zanthoxylum piperitum, Z. simulans)",1
+pp551,"Ervas, chás herbais e especiarias",Flor de tília prateada,"Flor de tília prateada (Tilia argentea, T.tomentosa)",1
+pp552,"Ervas, chás herbais e especiarias",Folha de tília prateada,"Folha de tília prateada (Tilia argentea, T.tomentosa)",1
+pp553,"Ervas, chás herbais e especiarias",Ansarinha,Ansarinha (Potentilla anserina),1
+pp554,"Ervas, chás herbais e especiarias",Fruta de abrunheiro,Fruta de abrunheiro (Prunus spinosa),1
+pp555,"Ervas, chás herbais e especiarias",Erva-das-quebraduras,Erva-das-quebraduras (Herniaria glabra),1
+pp556,"Ervas, chás herbais e especiarias",Quilaia,Quilaia (Quillaja saponaria),1
+pp557,"Ervas, chás herbais e especiarias",Abrótano,"Abrótano (Artemisia abrotanum, A. vulgaris)",1
+pp197,"Ervas, chás herbais e especiarias",Spinach leaf,Spinach leaf (Spinacia oleracea),1
+pp558,"Ervas, chás herbais e especiarias",Espirulina,Espirulina (Spirulina platensis),1
+pp559,"Ervas, chás herbais e especiarias",Flor de hipérico / erva-de-são-joão,Flor de hipérico / erva-de-são-joão (Hypericum perforatum),1
+pp560,"Ervas, chás herbais e especiarias",Erva de hipérico / erva-de-são-joão,Erva de hipérico / erva-de-são-joão (Hypericum perforatum),1
+pp198,"Ervas, chás herbais e especiarias",Star anise,Star anise (Illicium verum),1
+pp199,"Ervas, chás herbais e especiarias",Stevia,Stevia (Stevia species),1
+pp561,"Ervas, chás herbais e especiarias",plantas daninhas Stink coentro / longo prazo,plantas daninhas Stink coentro / longo prazo (chicória da Amazônia),1
+pp562,"Ervas, chás herbais e especiarias",Stonebreaker,Stonebreaker (Phyllanthus niruri),1
+pp563,"Ervas, chás herbais e especiarias",Folha de morango,Folha de morango (Fragaria ananassa),1
+pp564,"Ervas, chás herbais e especiarias",Pétala de girassol,Pétala de girassol (Helianthus annuus),1
+pp200,"Ervas, chás herbais e especiarias",Sweet cherry stem,Sweet cherry stem (Prunus avium ssp. avium),1
+pp565,"Ervas, chás herbais e especiarias",Rizoma de Szechuan Lovage,Rizoma de Szechuan Lovage (Ligusticum wallichii),1
+pp566,"Ervas, chás herbais e especiarias",O tamarindo,O tamarindo (Tamarindus indica),1
+pp201,"Ervas, chás herbais e especiarias",Tarragon,Tarragon (Artemisia dracunculus),1
+pp202,"Ervas, chás herbais e especiarias",Tea Tree,Tea Tree (Melaleuca alternifolia),1
+pp567,"Ervas, chás herbais e especiarias",Teypat / Malabathrum,Teypat / Malabathrum (tamala Cinnamomum),1
+pp203,"Ervas, chás herbais e especiarias",Thyme,Thyme (Thymus species),1
+pp568,"Ervas, chás herbais e especiarias",Junça,Junça (Cyperus esculentus),1
+pp569,"Ervas, chás herbais e especiarias",Linária,Linária (Linaria vulgaris),1
+pp570,"Ervas, chás herbais e especiarias",Feijão Tonka,Feijão Tonka (Dipteryx odorata),1
+pp571,"Ervas, chás herbais e especiarias",raiz de tormentil,raiz de tormentil (Potentilla erecta),1
+pp572,"Ervas, chás herbais e especiarias",Árvore Mallow,Árvore Mallow (Lavatera arborea),1
+pp573,"Ervas, chás herbais e especiarias",Tulsi,Tulsi (Ocimum tenuiflorum),1
+pp204,"Ervas, chás herbais e especiarias",Turmeric,Turmeric (Curcuma species),1
+pp574,"Ervas, chás herbais e especiarias",Valeriana,Valeriana (Valeriana decussata),1
+pp205,"Ervas, chás herbais e especiarias",Vanilla,"Vanilla (Vanilla mexicana, V. fragrans, V. planifolia)",1
+pp575,"Ervas, chás herbais e especiarias",Uva Veldt,Uva Veldt (Cissus quadrangularis),1
+pp576,"Ervas, chás herbais e especiarias",Vervain,Vervain (Verbena espécies),1
+pp206,"Ervas, chás herbais e especiarias",Vetiver,Vetiver (Chrysopogon zizanioides),1
+pp577,"Ervas, chás herbais e especiarias",hortelã vietnamita / coentros vietnamita,hortelã vietnamita / coentros vietnamita (odoratum Polygonum),1
+pp207,"Ervas, chás herbais e especiarias",Walnut leaf,Walnut leaf (Juglans regia),1
+pp578,"Ervas, chás herbais e especiarias",Water hyssop,Water hyssop (Bacopa monnieri),1
+pp579,"Ervas, chás herbais e especiarias",Menta de água,Menta de água,1
+pp580,"Ervas, chás herbais e especiarias",Agrião,Agrião (Nasturtium officinale),1
+pp581,"Ervas, chás herbais e especiarias",Sementes de acácia,Sementes de acácia (Acacia victoriae),1
+pp582,"Ervas, chás herbais e especiarias",Intestinos brancos rizoma,Intestinos brancos rizoma (Atractylodis macrocephalae),1
+pp583,"Ervas, chás herbais e especiarias",Urtiga-branca,Flor de urtiga-branca(Lamium album),1
+pp584,"Ervas, chás herbais e especiarias",Urtiga-branca,Erva de urtiga-branca (Lamium album),1
+pp585,"Ervas, chás herbais e especiarias",Lírio-do-brejo,Lírio-do-brejo (Hedychium coronarium),1
+pp208,"Ervas, chás herbais e especiarias",Amoreira branca,White mulberry leaf (Morus alba),1
+pp586,"Ervas, chás herbais e especiarias",Amoreira branca,Galho de amoreira branca (Morus alba),1
+pp587,"Ervas, chás herbais e especiarias",Raiz de peônia branca,Raiz de peônia branca (Paeonia alba),1
+pp209,"Ervas, chás herbais e especiarias",White Pepper,White Pepper (Piper nigrum),1
+pp317,"Ervas, chás herbais e especiarias",Tâmara silvestre,Tâmara silvestre,1
+pp210,"Ervas, chás herbais e especiarias",Wild strawberry leaf,Wild strawberry leaf (Fragaria vesca),1
+pp588,"Ervas, chás herbais e especiarias",Erva do salgueiro,Erva do salgueiro (Epilobium angustifolium),1
+pp589,"Ervas, chás herbais e especiarias",Inverno agrião / foguete amarelo,"Inverno agrião / foguete amarelo (Barbarea vulgaris, B. verna)",1
+pp590,"Ervas, chás herbais e especiarias",Hamamélis,Casca  de hamamélis (Hamamelis virginiana),1
+pp591,"Ervas, chás herbais e especiarias",Hamamélis,Folha de hamamélis (Hamamelis virginiana),1
+pp592,"Ervas, chás herbais e especiarias",Betônica,Betônica (Betonica officinalis),1
+pp211,"Ervas, chás herbais e especiarias",Aspérula,Aspérula (Galium odoratum),1
+pp212,"Ervas, chás herbais e especiarias",Artemísia,Artemísia (Artemisia absinthium),1
+pp593,"Ervas, chás herbais e especiarias",Mil-folhas ,Flor de mil-folhas  (Achillea millefolium),1
+pp594,"Ervas, chás herbais e especiarias",Mil-folhas ,Erva de mil-folhas (Achillea millefolium),1
+pp595,"Ervas, chás herbais e especiarias",Erva-coalheira,Erva-coalheira (Galium verum),1
+pp596,"Ervas, chás herbais e especiarias",Raiz de genciana-amarela,Raiz de genciana-amarela (Gentiana lutea),1
+pp502,"Ervas, chás herbais e especiarias",Yerba Mate,Yerba Mate (paragariensis llex),1
+pp597,"Ervas, chás herbais e especiarias",Yerba Mate,Yerba Mate (paragariensis llex),1
+pp598,"Ervas, chás herbais e especiarias",Ylang-ylang,Ylang-ylang (Cananga odorata),1
+pp214,Mel,Mel,A Quality,1
+pp215,Mel,Mel,B Quality,1
+pp216,Mel,Mel,Outro [Especifique],1
+pp217,Nozes,Amêndoas,Amêndoas,1
+pp218,Nozes,Sementes de damasco,Sementes de damasco,1
+pp219,Nozes,Castanha do Pará,Castanha do Pará,1
+pp220,Nozes,Castanha de caju,Castanha de caju,1
+pp309,Nozes,Castanha,Castanha,1
+pp221,Nozes,Porca Macadâmia,Porca Macadâmia,1
+pp224,Nozes,Nozes (outros),Nozes (outros),1
+pp222,Nozes,Amendoim,Amendoim,1
+pp223,Nozes,Nogueira,Nogueira,1
+pp225,Oleaginosas e frutos oleaginosos,Argan Oil,Argan Oil,1
+pp226,Oleaginosas e frutos oleaginosos,Coco,Coco,0.00120048
+pp633,Oleaginosas e frutos oleaginosos,Linho,Linho,1
+pp637,Oleaginosas e frutos oleaginosos,Semente de madhuca,Semente de madhuca,1
+pp227,Oleaginosas e frutos oleaginosos,Olive Oil,Olive Oil,1
+pp228,Oleaginosas e frutos oleaginosos,Olives,Olives,1
+pp233,Oleaginosas e frutos oleaginosos,Oleaginosas e frutos oleaginosos (outro),Outro [Especifique],1
+pp638,Oleaginosas e frutos oleaginosos,Semente de sal,Semente de sal,1
+pp229,Oleaginosas e frutos oleaginosos,Sesame oil,Sesame oil,1
+pp230,Oleaginosas e frutos oleaginosos,Sesame Seed,Sesame Seed,1
+pp231,Oleaginosas e frutos oleaginosos,Shea Butter,Shea Butter,1
+pp232,Oleaginosas e frutos oleaginosos,Soybeans,Soybeans,1
+pp073,Fruta fresca,Mamão,Mamão (fresco),1
+pp074,Fruta fresca,Maracujá,Maracujá (fresco),1
+pp075,Fruta fresca,Pêssegos e Nectarinas,Pêssegos e Nectarinas (frescos),1
+pp076,Fruta fresca,Peras,Peras (frescas),1
+pp312,Fruta fresca,Caqui,Caqui (fresco),1
+pp077,Fruta fresca,Physalis,Physalis (fresco),1
+pp078,Fruta fresca,Ananases,Ananases (frescos),1
+pp079,Fruta fresca,Ameixas,Ameixas (frescas),1
+pp080,Fruta fresca,Romã,Romã (fresca),1
+pp639,Fruta fresca,Pomelo,Pomelo (fresco),1
+pp081,Fruta fresca,Figo da Índia,Figo da Índia (fresco),1
+pp630,Fruta fresca,Rambutã,Rambutã (fresco),1
+pp082,Fruta fresca,Framboesas,Framboesas (frescas),1
+pp083,Fruta fresca,Groselha vermelha,Groselha vermelha (frescas),1
+pp629,Fruta fresca,Fruta-cobra,Fruta-cobra (fresca),1
+pp084,Fruta fresca,Citrinos suaves: Clementinas,Citrinos suaves: Clementinas (frescas),1
+pp085,Fruta fresca,Citrinos suaves: Mandarinas,Citrinos suaves: Mandarinas (frescas),1
+pp086,Fruta fresca,Citrinos suaves: Satsumas,Citrinos suaves: Satsumas (frescas),1
+pp087,Fruta fresca,Citrinos suaves: Tangerinas,Citrinos suaves: Tangerinas (frescas),1
+pp314,Fruta fresca,Graviola,Graviola (fresca),1
+pp088,Fruta fresca,Morangos,Morangos (frescos),1
+pp089,Fruta fresca,Uvas de mesa: Com grainhas,Uvas de mesa: Com grainhas (fresca),1
+pp090,Fruta fresca,Uvas de mesa: Sem grainhas,Uvas de mesa: Sem grainhas (frescas),1
+pp091,Fruta fresca,Melancia,Melancia (fresca),1
+pp357,"Fruta processada (sumo, seco e polpa)",Açaí,Açaí (sumo),1
+pp093,"Fruta processada (sumo, seco e polpa)",Maçã,Maçã (sumo),1
+pp358,"Fruta processada (sumo, seco e polpa)",Mirtilo,Mirtilo (sumo),1
+pp359,"Fruta processada (sumo, seco e polpa)",Cereja,Cereja (sumo),1
+pp094,"Fruta processada (sumo, seco e polpa)",Grapefruit,Grapefruit (sumo),1
+pp095,"Fruta processada (sumo, seco e polpa)",Guava,Guava (sumo),1
+pp096,"Fruta processada (sumo, seco e polpa)",Limão,Limão (sumo),1
+pp097,"Fruta processada (sumo, seco e polpa)",Lime,Lime (sumo),1
+pp098,"Fruta processada (sumo, seco e polpa)",Mandarin,Mandarin (sumo),1
+pp368,"Fruta processada (sumo, seco e polpa)",Manga,Manga (sumo),1
+pp099,"Fruta processada (sumo, seco e polpa)",Laranja,Laranja (sumo),1
+pp102,"Fruta processada (sumo, seco e polpa)",Fruta processada (outro),Outros sumos de fruta [Especificar],1
+pp369,"Fruta processada (sumo, seco e polpa)",Mamão,Mamão (sumo),1
+pp100,"Fruta processada (sumo, seco e polpa)",Maracujá,Maracujá (sumo),1
+pp370,"Fruta processada (sumo, seco e polpa)",Peras,Peras (sumo),1
+pp101,"Fruta processada (sumo, seco e polpa)",Ananás,Ananás (sumo),1
+pp371,"Fruta processada (sumo, seco e polpa)",Framboesas,Framboesas (sumo),1
+pp234,"Fruta processada (sumo, seco e polpa)",Açaí,Açaí (polpa),1
+pp235,"Fruta processada (sumo, seco e polpa)",Araza,Araza (polpa),1
+pp236,"Fruta processada (sumo, seco e polpa)",Banana,Banana (polpa),1
+pp237,"Fruta processada (sumo, seco e polpa)",Carambola,Carambola (polpa),1
+pp238,"Fruta processada (sumo, seco e polpa)",Guava,Guava (polpa),1
+pp239,"Fruta processada (sumo, seco e polpa)",Lychee,Lychee (polpa),1
+pp240,"Fruta processada (sumo, seco e polpa)",Manga,Manga (polpa),1
+pp241,"Fruta processada (sumo, seco e polpa)",Fruta processada (outro),Outra polpa de fruta [Especificar],1
+pp255,Algodão em bruto,Algodão em bruto,"Gossypium barbadense (p. ex. Giza, PIMA)",1
+pp254,Algodão em bruto,Algodão em bruto,Gossypium hirsutum/ herbaceum/ arboreum,1
+pp256,Algodão em bruto,Algodão em bruto,Outro [Especifique],1
+pp257,Camarão,Camarão,M. rosenbergii,1
+pp258,Camarão,Camarão,Outro [Especifique],1
+pp260,Bolas esportivas,Bolas esportivas,Outro [Especifique],1
+pp259,Bolas esportivas,Bolas esportivas,Bolas esportivas,1
+pp261,Chá,Chá,Camellia sinensis: Folha verde,0.22222
+pp262,Chá,Chá,Outro [Especifique],1
+pp618,Textil,Algodão,Algodão,1
+pp619,Textil,fibras de produção responsável,fibras de produção responsável,1
+pp264,Madeira,Madeira,Outro [Especifique],1
+pp263,Madeira,Madeira,Madeira,1
+pp269,Vegetais,Feijões & Feijões verdes (excepto vagens),Feijões & Feijões verdes (excepto vagens),1
+pp278,Vegetais,Feijão-frade (folhas),Feijão-frade (folhas),1
+pp281,Vegetais,Vagens,Vagens,1
+pp282,Vegetais,Ervilhas verdes,Ervilhas verdes,1
+pp620,Vegetais,Feijão Verde,Feijão Verde,1
+pp628,Vegetais,Ervilhas verdes (qualquer Pisum comestível),Ervilhas verdes (qualquer Pisum comestível),1
+pp622,Vegetais,folha de Vigna unguiculata,folha de Vigna unguiculata,1
+pp289,Vegetais,Nova Batatas,Nova Batatas,1
+pp292,Vegetais,Ervilhas (excepto verdes),Ervilhas (excepto verdes),1
+pp307,Vegetais,amaranto,amaranto,1
+pp265,Vegetais,Artichoke,Artichoke,1
+pp266,Vegetais,Asparagus,Asparagus,1
+pp267,Vegetais,Baby corn,Baby corn,1
+pp268,Vegetais,Barlotti Beans,Barlotti Beans,1
+pp270,Vegetais,Beet,Beet,1
+pp271,Vegetais,Broccoli,Broccoli,1
+pp308,Vegetais,Couves de Bruxelas,Couves de Bruxelas,1
+pp272,Vegetais,Cabbage,Cabbage,1
+pp273,Vegetais,Carrot,Carrot,1
+pp274,Vegetais,"Aipim, raiz de tapioca","Aipim, raiz de tapioca",1
+pp275,Vegetais,Cauliflower,Cauliflower,1
+pp276,Vegetais,Celery,Celery,1
+pp277,Vegetais,Chard,Chard,1
+pp279,Vegetais,Cucumber,Cucumber,1
+pp280,Vegetais,Eggplant,Eggplant,1
+pp635,Vegetais,Alho elefante,Alho elefante,1
+pp283,Vegetais,Garlic,Garlic,1
+pp284,Vegetais,Gherkin,Gherkin,1
+pp310,Vegetais,Couve,Couve,1
+pp285,Vegetais,Feijões comuns,Feijões comuns,1
+pp621,Vegetais,Folhas de erva-moura africana,Folhas de erva-moura africana,1
+pp286,Vegetais,Alho-porro,Alho-porro,1
+pp287,Vegetais,Alface,Alface,1
+pp623,Vegetais,Folha de juta,Folha de juta,1
+pp288,Vegetais,feijão-mungo,feijão-mungo,1
+pp290,Vegetais,Cebola,Cebola,1
+pp043,Vegetais,Vegetais (outro),Outros legumes secos [Especificar],1
+pp304,Vegetais,Vegetais (outro),Outros legumes frescos [Especificar],1
+pp291,Vegetais,Palmito,Palmito,1
+pp293,Vegetais,Pimentos: Qualquer Capsicum Annuum,Pimentos: Qualquer Capsicum Annuum,1
+pp624,Vegetais,Pulsos,Pulsos,1
+pp294,Vegetais,Pumpkin,Pumpkin,1
+pp313,Vegetais,Radicchio,Radicchio,1
+pp295,Vegetais,Radish,Radish,1
+pp296,Vegetais,Shallots,Shallots,1
+pp297,Vegetais,Crotalaria brevidens,Crotalaria brevidens,1
+pp298,Vegetais,Clorofito,Clorofito,1
+pp299,Vegetais,Spinach,Spinach,1
+pp300,Vegetais,Squash,Squash,1
+pp301,Vegetais,Sweet Potatoes (Ipomoea batatas),Sweet Potatoes (Ipomoea batatas),1
+pp042,Vegetais,Tomates (secos),Tomates (secos),1
+pp302,Vegetais,Tomates (frescos),Tomates (frescos),1
+pp303,Vegetais,Zucchini,Zucchini,1
+pp306,Uvas para vinho,Uvas para vinho (outro),Outro [Especifique],1
+pp625,Uvas para vinho,Uvas de vinho tinto,Uvas de vinho tinto,0.00143
+pp626,Uvas para vinho,Uvas de vinho branco,Uvas de vinho branco,0.0016
+pp305,Uvas para vinho,Uvas para vinho (não especificado),Uvas para vinho (não especificado),1
